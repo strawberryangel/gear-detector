@@ -12,8 +12,12 @@ Dump the script into a container. Set Firestorm to alert you when that container
 
 You can silence alerts aobut individuals with 
 
+```
 /7 add <UUID> 
+```
 
 and reset the silence list with 
 
+```
 /7 reset
+```
